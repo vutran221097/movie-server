@@ -27,9 +27,9 @@ Technologies used: Express, ReactJS, NodeJS, React Router.
 - Directory: Client
 - Features:
   - [x] Movie page, Search page
-  - [x] Searching movie with multiple condition
+  - [x] Search movie with multiple condition
   - [x] Sort movies by genre
-  - [x] Watch trailer
+  - [x] Watch movie trailer
 
 ### Node version
 
